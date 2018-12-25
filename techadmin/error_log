@@ -1,0 +1,1 @@
+[20-Sep-2017 05:38:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/lueinfos/public_html/parking/admin/techadmin/price_delete.php:3) in /home/lueinfos/public_html/parking/admin/techadmin/price_delete.php on line 11
